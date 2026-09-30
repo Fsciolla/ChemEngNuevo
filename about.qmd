@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About me Chemical"
 image: profile.jpg
 about:
   template: jolla
