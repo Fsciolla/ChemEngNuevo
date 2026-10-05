@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://your-website-url.example.com/posts/welcome/index.html</loc>
+    <loc>https://fsciolla.github.io/ChemEngNuevo/posts/welcome/index.html</loc>
     <lastmod>2026-08-11T05:00:45.598Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/posts/fluid-mech/index.html</loc>
+    <loc>https://fsciolla.github.io/ChemEngNuevo/posts/fluid-mech/index.html</loc>
     <lastmod>2026-09-27T04:13:55.073Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/index.html</loc>
+    <loc>https://fsciolla.github.io/ChemEngNuevo/index.html</loc>
     <lastmod>2026-08-11T05:00:45.594Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/about.html</loc>
+    <loc>https://fsciolla.github.io/ChemEngNuevo/about.html</loc>
     <lastmod>2026-09-29T04:39:52.976Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/posts/bienvenido/index.html</loc>
+    <loc>https://fsciolla.github.io/ChemEngNuevo/posts/bienvenido/index.html</loc>
     <lastmod>2026-09-29T02:30:03.750Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
+    <loc>https://fsciolla.github.io/ChemEngNuevo/posts/post-with-code/index.html</loc>
     <lastmod>2026-08-11T05:00:45.603Z</lastmod>
   </url>
 </urlset>
