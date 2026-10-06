@@ -26,3 +26,12 @@ $font-family-sans-serif: "Baskervville", sans-serif;
 h1, h2, h3, p {
   font-family: "Baskervville", monospace !important;
 }
+
+/*-- scss:rules --*/
+
+.sidebar-logo {
+  display: block;
+  width: 250px;
+  height: auto;
+  margin: 10px auto 20px auto;
+}

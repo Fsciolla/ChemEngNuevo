@@ -9,16 +9,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "ChemEngNuevo",
+    "title": "Ingenieria Química y de Procesos",
     "section": "",
-    "text": "Fluid Mech\n\n\n\n\n\n\n\n\nSep 27, 2026\n\n\nError: Invalid Key: Scoolla/.gitconfig\n\n\n\n\n\n\n\n\n\n\n\n\nBienvenido\n\n\n\n\n\n\n\n\nAug 11, 2026\n\n\nError: Invalid Key: Scoolla/.gitconfig\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 11, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 8, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Fluid Mech\n\n\n\n\n\n\n\n\nSep 27, 2026\n\n\nError: Invalid Key: Scoolla/.gitconfig\n\n\n\n\n\n\n\n\n\n\n\n\nBienvenido\n\n\n\n\n\n\n\n\nAug 11, 2026\n\n\nError: Invalid Key: Scoolla/.gitconfig\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 11, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 8, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Basics",
+      "Ingenieria Química y de Procesos"
+    ]
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About me Chemical",
     "section": "",
-    "text": "About this blog"
+    "text": "About this blog",
+    "crumbs": [
+      "About"
+    ]
   },
   {
     "objectID": "posts/post-with-code/index.html",

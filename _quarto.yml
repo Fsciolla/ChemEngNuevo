@@ -6,9 +6,30 @@ website:
   title: "ChemEngNuevo"
   description: "A blog construido en Quarto"
   site-url: "https://fsciolla.github.io/ChemEngNuevo/"
-
-  navbar:
-    right:
+  
+  sidebar:
+    style: "docked"
+    title: "<img src='images/CHEimage.png' class='sidebar-logo'>"
+    search: true
+    contents:
+      - text: "Introduction"
+        href: introduction.qmd
+      - section: "Basics"
+        href: basics-summary.qmd
+        contents:
+          - index.qmd
+          - basics-knitr.qmd
+          - basics-jupyter.qmd
+      - section: "Layout"
+        contents:
+          - layout.qmd
+          - layout-knitr.qmd
+          - layout-jupyter.qmd
+      - section: advanced.qmd
+        contents:
+          - raw-code.qmd
+          - custom-theme.qmd
+      - acknowledgment.qmd
       - href: about.qmd
         text: "About"
       - icon: github
@@ -20,7 +41,7 @@ format:
   html:
     theme: 
       - cosmo
-      - Brand
       - tema.scss
     css: styles.css
     toc: true
+    
